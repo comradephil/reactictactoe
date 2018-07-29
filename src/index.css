@@ -39,6 +39,7 @@ ol, ul {
   padding: 0;
   text-align: center;
   width: 34px;
+  color: #000;
 }
 .square:hover {
 	background-color: #ddf;
